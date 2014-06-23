@@ -1,6 +1,6 @@
 {
-    "name": "siriusphp/validation",
-    "description": "Data validation library. Validate arrays, array objects, domain models etc using a simple API. Easily add your own validators on top of the already dozens built-in validation rules",
+    "name": "rossriley/validation",
+    "description": "Data validation library. Validate arrays, array objects, domain models etc using a simple API. Easily add your own validators on top of the already dozens built-in validation rules. This fork maintains PHP 5.3 compatibility.",
     "type": "library",
     "license": "MIT",
     "keywords": [
@@ -29,6 +29,6 @@
         ]
     },
     "extra": {
-        "branch-alias": { "dev-master": "1.2.x" }
+        "branch-alias": { "dev-master": "1.2.x-dev" }
     }
 }
